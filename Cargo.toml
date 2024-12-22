@@ -1,0 +1,12 @@
+[package]
+name = "rbolt"
+version = "0.1.0"
+edition = "2021"
+description = "A reimplementation of Bolt in Rust"
+
+[dependencies]
+quickcheck = "1.0.3"
+rand = "0.8.5"
+
+[dev-dependencies]
+
